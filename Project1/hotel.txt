@@ -1,0 +1,67 @@
+
+|+-----------------------------------------------------------------------------------------------+|
+|                                                                            		          |
+|				INTRODUCTION							  |										  |
+|                                                                                                 |
+|+-----------------------------------------------------------------------------------------------+|
+|                                                                                                 |
+|	This program is developed for hotel managment system				          |
+|                                                                                                 |  
+|	This program uses main Data Structures to approach the DS Project requirments		  |
+|                                                                                                 |
+|By using this program a hotel can store its data> With the help of Linked list,nodes and pointers|
+|                                                                                                 |
+|	   THE MAIN FEATURES OF THIS PROGRAM ARE:			                          |
+|                                                                                                 |
+|*************************************************************************************************|
+|                                                                                                 |
+|	1>>>. It store the data of hotel restaurant menu.                                         |
+|                                                                                                 |
+|	You can add new menu by inserting                                                         |
+|                                                                                                 |
+| 	The menu name its price and the cheif of the restaurant.                                  |
+|                                                                                                 |
+|       You can check the list of hotel restaurant menu.                                          |
+|                                                                                                 |
+|  	You can search the detail of menu by the name of dish					  |
+|                                                                                                 |
+|	The details of menu will be shown.				                          |
+|                                                                                                 |
+|*************************************************************************************************|
+|                                                                                                 |
+|	2.>>> This program can save the new guest details.					  | 
+| The main data this program needs it`s Name and from where guest come from			  | 
+| how many days he will stay in hotel and in which room						  |
+|                                                                                                 |
+|	located in hotel.                                                                         |
+|                                                                                                 |
+|       You can check the total guest of hotel by GUEST LIST.                                     |
+|                                                                                                 |
+|       YOU can also search the guest by guest name. When you write the name of guest             |
+|                                                                                                 |
+|	in search option it will disply the detail of guest..                                     |
+|                                                                                                 |
+|*************************************************************************************************|
+|                                                                                                 |
+|	3>>>  Worker detail is very procious for any hotel. By this program you can               |
+|                                                                                                 |
+|	store the detail of worker which are includes:		                                  |
+|                                                                                                 |
+|       Worker ID, Worker name, its phone no  and its salary.                                     |
+|                                                                                                 |
+|  	To find the worker in thousand workers it is very difficult                               |
+|                                                                                                 |
+|	but this program have capabilty to search the particular worker of hotel                  |
+|                                                                                                 |
+|	.You can  search the worker by Name or by ID of worker.                                   |
+|                                                                                                 |
+|                                                                                                 |
+|                                                                                                 |
+|                                                                                                 |
+|		  WE ARE VERY THANKFUL TO YOU FOR USING THIS PROGRAM                              |
+|                                                                                                 |
+|	             AND HOPE THAT YOU WILL ENJOY IT!!!	                                          |
+|                                                                                                 |
+|			     GOOD LUCK!!!                                                         |
+|  SULTANOV KHODJIMURAT,MUSAEV AKMALJON,PULATOV JASURBEK,NASRIEV LAZIZJON,MUKHAMEDOV YOKUBJON     |
+|*************************************************************************************************|
